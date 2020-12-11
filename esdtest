@@ -37,14 +37,14 @@
 			'https://mxd.force.com/Community',
 			gslbBaseURL,
 			'00DG0000000hB2y',
-			'CS_Partner_Team',
+			'CS_Customer_Team',
 			{
 				baseLiveAgentContentURL: 'https://c.la4-c4-ia2.salesforceliveagent.com/content',
 				deploymentId: '5724p000000kK8y',
-				buttonId: '5734p000000kLBx',
+				buttonId: '5734p000000kLBs',
 				baseLiveAgentURL: 'https://d.la4-c4-ia2.salesforceliveagent.com/chat',
-				eswLiveAgentDevName: 'EmbeddedServiceLiveAgent_Parent04I4p000000TNVbEAO_172b3b3429a',
-				isOfflineSupportEnabled: true
+				eswLiveAgentDevName: 'EmbeddedServiceLiveAgent_Parent04I4p000000TNVaEAO_172b3b05a97',
+				isOfflineSupportEnabled: false
 			}
 		);
 	};
